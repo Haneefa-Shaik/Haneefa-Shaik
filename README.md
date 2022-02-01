@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi 👋
+### Welcome to my GITHUB profile. 
+### I am Haneefa Shaik 
 
-<!--
-**Haneefa-Shaik/Haneefa-Shaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# My Values
+- *Beginner's Mindset and curiosity*
+- *Let's Learn and Grow*
+- *Get started, practice and stay interested*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Goal 2022
+ To become a developer.
+ **I’ve realized that being a housewife is no longer a deterrent to my career and that age is indeed just a number! I have a long way to travel and the road is clear to me.**
+ 
+ # About Me
+- 🌱 I’m currently how to code for beginners
+- 🤔 I’m looking for help on Java
+- 💬 I am happy and self motivated 
+- 📫 How to reach me: haneefa506@gmail.com
+
+
