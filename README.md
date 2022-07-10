@@ -30,4 +30,15 @@
 - 📫 How to reach me: haneefa506@gmail.com
 
 
-[![Haneefa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haneefa-Shaik)](https://github.com/Haneefa-Shaik/github-readme-stats)
+---
+
+### Github Activity ✔:
+
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneefa-Shaik&theme=tokyonight" />
+  </a>
+
+
+<a href="https://github.com/Davekibh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Haneefa-Shaik&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
