@@ -1,7 +1,4 @@
-### Hi 👋
-### Welcome to my GITHUB profile. 
-### I am Haneefa Shaik 
-
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Haneefa+Shaik;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
 
 # My Values
 - *Beginner's Mindset and curiosity*
@@ -56,4 +53,7 @@
 
 <br>
 </p>
+
+---
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")]
 
