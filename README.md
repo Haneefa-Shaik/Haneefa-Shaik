@@ -31,13 +31,13 @@
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/Haneefa-Shaik">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneefa-Shaik&theme=tokyonight" />
   </a>
 
 
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Haneefa-Shaik&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/Haneefa-Shaik">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Haneefa-Shaik&show_icons=true&theme=tokyonight&line_height=27" alt="Haneefa github stats"/>
 </a>
 
 <br>
